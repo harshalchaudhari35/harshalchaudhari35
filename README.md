@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV and pytorch**
 
-- 👯 Projects that I follow [Apache Superset](https://github.com/apache/superset) [Indico] (https://github.com/indico/indico) [Airbyte] (https://github.com/airbytehq/airbyte) [meilisearch] (https://github.com/meilisearch/meilisearch) [polars]
- (https://github.com/pola-rs/polars)
+- 👯 Projects that I follow [Apache Superset](https://github.com/apache/superset), [Indico](https://github.com/indico/indico), [Airbyte](https://github.com/airbytehq/airbyte), [Meilisearch](https://github.com/meilisearch/meilisearch), [Polars](https://github.com/pola-rs/polars)
 - 📝 I regularly write articles on [deploydatascience.com](deploydatascience.com)
 
 - 💬 Ask me about **Python, Flask APIs, Pandas, Data Engineering and DevOps (linux)**
