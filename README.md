@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Go At PyTorch Deep Learning](https://www.deploydatascience.com/posts/first-go-at-pytorch/)
+- [Intro to PyTorch for Deep Learning](https://www.deploydatascience.com/posts/intro-to-pytorch-for-deep-learning/)
 - [An Open Source Customer Data Integration Solution](https://www.deploydatascience.com/posts/data-integration-solution/)
-- [My First Post](https://www.deploydatascience.com/posts/my-first-post/)
 - [About](https://www.deploydatascience.com/about/)
+- [Resources](https://www.deploydatascience.com/resources/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
