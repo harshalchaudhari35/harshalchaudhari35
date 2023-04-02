@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Serverless ML Made Easy](https://www.deploydatascience.com/posts/serverless-ml-made-easy/)
+- [Simplifying Web APIs For Data Applications](https://www.deploydatascience.com/posts/simplifying-data-web-api/)
 - [Intro to PyTorch for Deep Learning](https://www.deploydatascience.com/posts/intro-to-pytorch-for-deep-learning/)
 - [An Open Source Customer Data Integration Solution](https://www.deploydatascience.com/posts/data-integration-solution/)
-- [About](https://www.deploydatascience.com/about/)
-- [Resources](https://www.deploydatascience.com/resources/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
