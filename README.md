@@ -5,6 +5,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalchaudhari35" alt="harshalchaudhari35" /></a> </p>
 -->
+
 - 🌱 I’m currently learning **Rust**
 
 - 👯 Projects that I follow [Apache Superset](https://github.com/apache/superset), [Indico](https://github.com/indico/indico), [Airbyte](https://github.com/airbytehq/airbyte), [Meilisearch](https://github.com/meilisearch/meilisearch), [Polars](https://github.com/pola-rs/polars)
