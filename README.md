@@ -23,7 +23,7 @@
 - [Intro to PyTorch for Deep Learning](https://www.deploydatascience.com/posts/intro-to-pytorch-for-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Blog RSS:</h3>
 <p align="left">
 <a href="https://www.deploydatascience.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.deploydatascience.com/index.xml" height="30" width="40" /></a>
 </p>
