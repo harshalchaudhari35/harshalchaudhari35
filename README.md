@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I use Arch, BTW**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Postgres Bulk Data Inserts](https://www.deploydatascience.com/posts/postgres-bulk-data-inserts/)
 - [Serverless ML Made Easy](https://www.deploydatascience.com/posts/serverless-ml-made-easy/)
